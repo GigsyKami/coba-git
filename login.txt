@@ -1,5 +1,5 @@
 login
 
-id_bagus :
+id	 :
 username : 
 password :
